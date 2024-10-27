@@ -1,0 +1,5 @@
+scoop install latex 
+实际上是 miktex.
+编译需要 latexmk, chktex, 和perl.
+vscode 支持 latex的插件是 latex workshop.
+在插件设置中配置了xelatex引擎.
