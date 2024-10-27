@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1 Portable) (preloaded format=xelatex 2024.10.27)  27 OCT 2024 22:54
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1 Portable) (preloaded format=xelatex 2024.10.27)  27 OCT 2024 23:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -258,24 +258,43 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
 
 
 LaTeX Font Warning: Font shape `TU/SimSun(0)/b/n' undefined
-(Font)              using `TU/SimSun(0)/m/n' instead on input line 15.
+(Font)              using `TU/SimSun(0)/m/n' instead on input line 12.
 
-[1
+(审美力_吴冠中.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+ [1
 
-] [2] [3] [4] [5]
+])
+\tf@toc=\write3
+\openout3 = `审美力_吴冠中.toc'.
+
+ [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+ [3] [4] [5] [6] [7]
 Missing character: There is no 昉 in font [FandolSong-Regular.otf]/OT:language=dflt;!
-[6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23]
 Missing character: There is no 谿 in font [FandolSong-Regular.otf]/OT:language=dflt;!
-[22] [23] [24] [25] [26] (审美力_吴冠中.aux)
+[24] [25] [26] [27]
+Missing character: There is no 昉 in font [FandolSong-Regular.otf]/OT:language=dflt;!
+[28] [29]
+Missing character: There is no 昉 in font [FandolSong-Regular.otf]/OT:language=dflt;!
+[30] [31] [32] [33] [34]
+Missing character: There is no 滉 in font [FandolSong-Regular.otf]/OT:language=dflt;!
+[35] [36] [37] [38] [39] [40]
+Missing character: There is no 峣 in font [FandolSong-Regular.otf]/OT:language=dflt;!
+Missing character: There is no 峣 in font [FandolSong-Regular.otf]/OT:language=dflt;!
+[41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] (审美力_吴冠中.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -286,12 +305,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5143 strings out of 409617
- 183681 string characters out of 5771982
+ 5393 strings out of 409617
+ 201366 string characters out of 5771982
  1973191 words of memory out of 5000000
- 27231 multiletter control sequences out of 15000+600000
- 561539 words of font info for 69 fonts, out of 8000000 for 9000
+ 27476 multiletter control sequences out of 15000+600000
+ 561555 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,6n,93p,1317b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 审美力_吴冠中.xdv (26 pages, 640668 bytes).
+Output written on 审美力_吴冠中.xdv (52 pages, 1268944 bytes).
