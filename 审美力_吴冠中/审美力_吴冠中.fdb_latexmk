@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1730042296.1986 "审美力_吴冠中.xdv" "审美力_吴冠中.pdf" "审美力_吴冠中" 1730042296.65954 0
-  "审美力_吴冠中.xdv" 1730042296 1268944 b4b797406663883c7d41b747d1a857fd "xelatex"
+["xdvipdfmx"] 1730131924.39333 "审美力_吴冠中.xdv" "审美力_吴冠中.pdf" "审美力_吴冠中" 1730131924.94681 0
+  "审美力_吴冠中.xdv" 1730131924 2219468 d980aba66b74fd30737a70cb684b2be9 "xelatex"
   (generated)
   "审美力_吴冠中.pdf"
   (rewritten before read)
-["xelatex"] 1730042294.35812 "e:/yunti_latex/审美力_吴冠中/审美力_吴冠中.tex" "审美力_吴冠中.xdv" "审美力_吴冠中" 1730042296.65743 0
+["xelatex"] 1730131921.82081 "e:/yunti_latex/审美力_吴冠中/审美力_吴冠中.tex" "审美力_吴冠中.xdv" "审美力_吴冠中" 1730131924.94453 0
   "C:/Users/lzytp/scoop/apps/latex/current/texmfs/data/miktex/data/le/xetex/xelatex.fmt" 1730040589 37550110 fd8ac1af64f214282f76c8167d6bb25e ""
   "C:/Users/lzytp/scoop/apps/latex/current/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/lzytp/scoop/apps/latex/current/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -32,10 +32,10 @@
   "C:/Users/lzytp/scoop/apps/latex/current/texmfs/install/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/lzytp/scoop/apps/latex/current/texmfs/install/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/lzytp/scoop/apps/latex/current/texmfs/install/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "e:/yunti_latex/审美力_吴冠中/审美力_吴冠中.tex" 1730042291 203281 bd1a86058205c52cbb53f5ac345ddc4d ""
-  "审美力_吴冠中.aux" 1730042296 8122 b23088dc7f1b6e2bfb66e6251e28c97d "xelatex"
-  "审美力_吴冠中.tex" 1730042291 203281 bd1a86058205c52cbb53f5ac345ddc4d ""
-  "审美力_吴冠中.toc" 1730042296 5137 775969b8117238b9492efdfc94d005d2 "xelatex"
+  "e:/yunti_latex/审美力_吴冠中/审美力_吴冠中.tex" 1730131918 355513 241f7e4775404055e3eb3ce6a97c772c ""
+  "审美力_吴冠中.aux" 1730131924 13927 bc85d4567919a9486d8482ef3aea7698 "xelatex"
+  "审美力_吴冠中.tex" 1730131918 355513 241f7e4775404055e3eb3ce6a97c772c ""
+  "审美力_吴冠中.toc" 1730131924 8810 a82a4f028f3611bf05adf7f147e89cca "xelatex"
   (generated)
   "审美力_吴冠中.aux"
   "审美力_吴冠中.log"
